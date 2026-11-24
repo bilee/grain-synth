@@ -2,8 +2,7 @@
 
 - [ ] more options to edit sounds, change to 808 sounds
 - [ ] wavetable synth with a bunch of knobs and switches. blue with red blinking lights 
-- [ ] move Pitch next to Beats
-- [ ] move selected pad next to sequencer
-- [ ] color Source box green
-- [ ] start reverb at 30% and tempo at 118 on Beats sequencer
-- [ ] On Beats, move selected pad next sequencer
+- [x] move Pitch next to Beats
+- [x] color Source box green
+- [x] start reverb at 30% and tempo at 118 on Beats sequencer
+- [x] On Beats, move selected pad next sequencer
