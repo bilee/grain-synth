@@ -6,3 +6,4 @@
 - [x] color Source box green
 - [x] start reverb at 30% and tempo at 118 on Beats sequencer
 - [x] On Beats, move selected pad next sequencer
+- [ ] Record to WAV: press record, play, press stop, and download the audio file.
